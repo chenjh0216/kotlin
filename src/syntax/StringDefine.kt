@@ -8,9 +8,10 @@ fun main(args: Array<String>) {
 class StringDefine {
 
     //字符串模板，这个跟perl的用法差不多
-    val a : String = "string1"
+    val a: String = "string1"
 
     val b = "before replace : $a .\n" +
-            "after replace : ${a.replace("1","2")}"
+            "after replace : ${a.replace("1", "2")}"
+
 
 }

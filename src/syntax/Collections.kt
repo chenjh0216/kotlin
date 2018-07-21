@@ -1,0 +1,7 @@
+package syntax
+
+class Collections {
+
+
+
+}
